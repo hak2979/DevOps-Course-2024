@@ -48,7 +48,7 @@ Throughout this project, I learned how to:
 
 For a deeper dive into each step of this project, feel free to check out my detailed blog posts. These posts cover every aspect of the workflow, from setting up the environment to deploying the app on Kubernetes.
 
-> **Explore the Full Project Here:**  
+> **Sample repo for devops:**  
 > [Mern-devops-minikube](https://github.com/hak2979/Mern-devops-minkube)
 
 ---
