@@ -18,25 +18,23 @@ Throughout this project, I have documented the process in a series of blog posts
 
    The first step of the project was building a simple **Flask** application and Dockerizing it. Docker allowed me to encapsulate the application in a container, making it portable and easy to deploy across any environment.
 
-   ![Docker](https://via.placeholder.com/600x200?text=Docker+Logo)
 
 ### 2. **Creating CI/CD Pipelines with GitHub Actions**
 
    I set up continuous integration and delivery (CI/CD) pipelines using **GitHub Actions**. This automated the entire process from code push to deployment, ensuring that changes were automatically tested, built, and deployed on every update.
 
-   ![GitHub Actions](https://via.placeholder.com/600x200?text=GitHub+Actions+CI%2FCD)
+
 
 ### 3. **Local Kubernetes Environment with Minikube**
 
    Using **Minikube**, I created a local Kubernetes environment to simulate production-like deployments. This allowed me to manage the app's containers effectively and test the scalability of the application.
 
-   ![Minikube](https://via.placeholder.com/600x200?text=Minikube+Logo)
 
 ### 4. **Exploring Kubernetes Deployment Strategies**
 
    The project included the exploration of different **Kubernetes deployment strategies**. From simple pods to more advanced methods like **Helm**, I gained valuable insights into managing complex application deployments at scale.
 
-   ![Kubernetes](https://via.placeholder.com/600x200?text=Kubernetes+Logo)
+
 
 ## Learning and Insights
 
